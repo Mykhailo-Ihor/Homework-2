@@ -1,0 +1,16 @@
+15
+Real Madrid*Cristiano Ronaldo 50
+Barcelonà*Lionel Messi 60
+Manchester United*Wayne Rooney 40
+Barcelona*Luis Suarez 45
+Real Madrid*Karim Benzema 35
+Manchester United*David Beckham 20
+Real Madrid*Sergio Ramos 15
+Barcelona*Andres Iniesta 10
+Manchester United*Ryan Giggs 25
+Barcelona*Xavi Hernandez 10
+Real Madrid*Gareth Bale 20
+Manchester United*Eric Cantona 15
+Barcelona*Gerard Pique 5
+Real Madrid*Raul Gonzalez 30
+Manchester United*Paul Scholes 25
